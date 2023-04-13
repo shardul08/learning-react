@@ -1,8 +1,38 @@
 # Learning React
 
+## How to run
+
+Clone this repo
+
+```
+git clone https://github.com/shardul08/learning-react.git
+```
+
+Change directory to project root
+
+```
+cd learning-react
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run the application
+
+```
+npm start
+```
+
+---
+
 ## Food ordering App
 
-### Header
+### Structure
+
+#### Header
 
     - Logo
     - Nav Items
@@ -11,7 +41,7 @@
         - Contact us
         - Cart
 
-### Body
+#### Body
 
     - Search container
         - Search bar
@@ -24,7 +54,7 @@
             - Rating
             - ETA
 
-### Footer
+#### Footer
 
     - Copyright
     - Links
